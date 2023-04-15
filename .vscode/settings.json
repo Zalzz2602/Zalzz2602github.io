@@ -1,0 +1,10 @@
+{
+  "window.zoomLevel": 0.5,
+  "editor.fontFamily": "Consolas",
+  "editor.fontSize": 14,
+  "editor.wordWrap": "on",
+  "cmake.configureOnOpen": true,
+  "liveServer.settings.port": 5501,
+  "cSpell.enableFiletypes": ["!javascript"],
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
